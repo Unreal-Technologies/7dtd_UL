@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<set xpath="/items/item/property[@name='Stacknumber' and @value &gt; 2 and @value &lt; 65535 ]/@value">65535</set>
+</config>
