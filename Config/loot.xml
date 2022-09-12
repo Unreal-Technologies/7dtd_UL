@@ -1,0 +1,20 @@
+<config>
+	<append xpath="/lootcontainers/lootgroup[@name='groupZpackReg03']">
+		<item name="modArmorNightvisionGoggles" loot_prob_template="veryLow"/>
+	</append>
+	<append xpath="/lootcontainers/lootgroup[@name='groupZpackStrong03']">
+		<item name="modArmorNightvisionGoggles" loot_prob_template="veryLow"/>
+	</append>
+	<append xpath="/lootcontainers/lootgroup[@name='groupZpackBoss03']">
+		<item name="modArmorNightvisionGoggles" loot_prob_template="veryLow"/>
+	</append>
+	<append xpath="/lootcontainers/lootcontainer[@name='zPackReg']">
+		<item name="modArmorNightvisionGoggles" loot_prob_template="probTemplate1.0"/>
+	</append>
+	<append xpath="/lootcontainers/lootcontainer[@name='zPackStrong']">
+		<item name="modArmorNightvisionGoggles" loot_prob_template="probTemplate0.75"/>
+	</append>
+	<append xpath="/lootcontainers/lootcontainer[@name='zPackBoss']">
+		<item name="modArmorNightvisionGoggles" loot_prob_template="probTemplate1.0"/>
+	</append>
+</config>

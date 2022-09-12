@@ -1,0 +1,3 @@
+Key,english
+modArmorNightvisionGoggles,Night Vision Goggles
+modArmorNightvisionGogglesDesc,These night vision goggles provide a little face protection but probably don't work any more.
