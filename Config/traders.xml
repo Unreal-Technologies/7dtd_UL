@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<set xpath="/traders/trader_info/@open_time">00:05</set>
+	<set xpath="/traders/trader_info/@close_time">21:55</set>
+	<set xpath="/traders/trader_info/@reset_interval">1</set>
+</config>
